@@ -59,3 +59,14 @@ WSL (Linux) • Terminal-first workflow
 ## 📡 Building in Public
 
 → @build.signal  
+
+## ⚡ Perspective
+
+Most tools solve clean, obvious problems.
+
+I’m interested in the messy ones:
+- hidden subscriptions  
+- fragmented workflows  
+- operators without systems  
+
+Build → test → iterate → repeat.
