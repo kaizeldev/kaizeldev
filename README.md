@@ -72,3 +72,11 @@ I’m interested in the messy ones:
 - operators without systems  
 
 Build → test → iterate → repeat.
+
+## 🤝 Open to
+
+- Collaborations on AI tools and automation systems  
+- Feedback on my projects (Kaizel, Latch, AgentOS)  
+- Early users interested in testing and giving input  
+
+If you're building something interesting or want to connect, feel free to reach out.
