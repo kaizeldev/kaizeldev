@@ -8,33 +8,36 @@ Currently in build + validation phase — shipping fast, testing ideas, and refi
 
 ## 🚀 Projects
 
-### Kaizel (AI Orchestration Engine)
-- 5-agent pipeline (research → code → review → refine → output)
-- DAG-based execution with typed handoffs (Pydantic)
-- Runs fully in terminal (WSL)
+### 🔹 Kaizel (AI Orchestration Engine)
+5-agent pipeline for development workflows  
+- research → code → review → refine → output  
+- DAG-based execution (Pydantic)  
+- Runs fully in terminal (WSL)  
 
-Status: Used in my own development workflow
-
----
-
-### Latch (Chrome Extension)
-- Detects subscriptions from Gmail + browser activity
-- Calculates monthly spend
-- Flags hidden renewal traps
-
-Status: Early-stage testing
+**Status:** Used in my development workflow  
 
 ---
 
-### AgentOS
-- Notion-based system for real estate agents
-- Designed to simplify lead tracking and workflows
+### 🔹 Latch (Chrome Extension)
+Subscription tracking + dark pattern detection  
+- Detects subscriptions from Gmail + browser activity  
+- Calculates monthly spend  
+- Flags hidden renewal traps  
 
-Status: Built, currently validating distribution
+**Status:** Early-stage testing  
 
 ---
 
-### Firewall (In Progress)
-- Payment infrastructure targeting dark patterns
+### 🔹 AgentOS
+Notion-based system for real estate agents  
+- Simplifies lead tracking and workflows  
+- Designed for non-technical users  
 
-Status: Research + early design
+**Status:** Built, validating distribution  
+
+---
+
+### 🔹 Firewall (In Progress)
+Payment infrastructure targeting dark patterns  
+
+**Status:** Research + early design  
