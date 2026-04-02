@@ -1,4 +1,4 @@
-# Riku Rynjah
+# Kaizel, Dev.
 
 AI Systems Builder | Automation | Building in Public
 
