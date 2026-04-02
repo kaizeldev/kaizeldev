@@ -26,6 +26,8 @@ Subscription tracking + dark pattern detection
 
 **Status:** Early-stage testing  
 
+![image alt](https://github.com/kaizeldev/kaizeldev/blob/bbff934121548491bbf4d0c17577bcb76fcc1b82/latch-demo.gif)
+
 ---
 
 ### 🔹 AgentOS
