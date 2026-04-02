@@ -55,3 +55,7 @@ Gemini • Claude • DeepSeek • Ollama • ChromaDB
 
 **Environment**
 WSL (Linux) • Terminal-first workflow  
+
+## 📡 Building in Public
+
+→ @build.signal  
