@@ -41,3 +41,17 @@ Notion-based system for real estate agents
 Payment infrastructure targeting dark patterns  
 
 **Status:** Research + early design  
+
+## ⚙️ Stack
+
+**Core**
+Python • asyncio • Pydantic  
+
+**Frontend / Extensions**
+React • Next.js • Plasmo (MV3)  
+
+**AI / Tooling**
+Gemini • Claude • DeepSeek • Ollama • ChromaDB  
+
+**Environment**
+WSL (Linux) • Terminal-first workflow  
