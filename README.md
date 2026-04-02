@@ -24,7 +24,7 @@ Subscription tracking + dark pattern detection
 - Calculates monthly spend  
 - Flags hidden renewal traps  
 
-**Status:** Early-stage testing  
+**Status:** Live on Chrome Web Store 
 
 ![image alt](https://github.com/kaizeldev/kaizeldev/blob/bbff934121548491bbf4d0c17577bcb76fcc1b82/latch-demo.gif)
 
