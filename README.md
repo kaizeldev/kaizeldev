@@ -27,15 +27,7 @@ Subscription tracking + dark pattern detection
 **Status:** Live on Chrome Web Store 
 
 ![image alt](https://github.com/kaizeldev/kaizeldev/blob/bbff934121548491bbf4d0c17577bcb76fcc1b82/latch-demo.gif)
-
----
-
-### 🔹 AgentOS
-Notion-based system for real estate agents  
-- Simplifies lead tracking and workflows  
-- Designed for non-technical users  
-
-**Status:** Built, validating distribution  
+ 
 
 ---
 
