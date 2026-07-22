@@ -65,7 +65,7 @@ PostgreSQL + pgvector
 Local LLMs via Ollama • Gemini • Claude • Docker
 
 **Environment**  
-WSL / Linux • Terminal-first workflow
+Arch Linux • Terminal-first workflow
 
 ## 📡 Building in Public
 
