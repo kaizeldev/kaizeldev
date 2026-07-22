@@ -62,7 +62,7 @@ JavaScript / Node • React • Plasmo (MV3)
 PostgreSQL + pgvector
 
 **AI / Tooling**  
-Local LLMs via Ollama • Gemini • Claude • Docker
+Local LLMs via Ollama • TMUX • Claude • Docker
 
 **Environment**  
 Arch Linux • Terminal-first workflow
